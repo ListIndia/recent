@@ -1,248 +1,188 @@
 {
   "data": [
     {
-      "id": "1",
-      "title": "Acid 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "description": "fsfs",
-      "test_sub": "test",
-      "gst_verified": true,
-      "contact_number": "RFtETWBOV1tSYVZRRlc=",
-      "company_website": "www.google.com",
-      "youtube_channel": "youtube.com",
-      "youtube_video": "www.youtube.com",
-      "images": [
-        "home-banner.png",
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg",
-        "unsplash.jpg"
-      ],
-      "map": "https://maps.app.goo.gl/au9YK6ci4H4SKWdUA"
+    "id": "6913d30c-fb5d-48e2-8c84-7e91729825a1",
+    "title": "Toughened Glass Door, Height: 80 Inch",
+    "location": "Pune, Maharashtra",
+    "description": "Vakratunda Traders - Retail Trader And Wholesaler of kitchen trolley, glazing profile &amp; shower hinges since 2017 in Pune, Maharashtra.",
+    "categories": "Toughened Glass Door, Toughened Glass",
+    "company_name": "Vakratunda Traders",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "200",
+      "quantity": "sq ft"
     },
-    {
-      "id": "2",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_26.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_32.jpg"
+    ]
+  },
+  {
+    "id": "2eb11c43-775a-4199-abd6-ef70dd2ef282",
+    "title": "CARPENTER KIT, Size: 16",
+    "location": "Pune, Maharashtra",
+    "description": "1pc Claw Hammer steel shaft 220gms-8 1pc Short Tape rules 5m/16' x 19mm 1pc Wood Chisel set, 3 pcs 1pc 9&rdquo; Torpedo Level 1pc Retractable utility knife, 156mm 1pc 300mm met diecast comb square 1pc 12.5'' toolbox metal latch",
+    "categories": "Plumbing Tools, Carpenter Tools",
+    "company_name": "Buraq International",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "3733",
+      "quantity": "Piece"
     },
-    {
-      "id": "3",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/carpenter_tools_1.jpg"
+    ]
+  },
+  {
+    "id": "e8267bdc-2d69-409b-a2de-1c0dc78ce74b",
+    "title": "Rubber Products",
+    "location": "Pimpri Chinchwad, Maharashtra",
+    "description": "Mechsword Technologies offers a wide range of high-quality Rubber Products, designed for durability and versatility. Our products cater to various industrial applications, ensuring reliable performance and precision in every use.",
+    "categories": "Rubber Products, Molded Rubber",
+    "company_name": "Mechsword Technologies",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "5",
+      "quantity": "Piece"
     },
-    {
-      "id": "4",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_11.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_8.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/rubber_products_20.jpeg"
+    ]
+  },
+  {
+    "id": "81a7f766-4011-4e22-b719-fef78cdb3ed2",
+    "title": "Fabric Mesh High Back Office Chair",
+    "location": "Pune, Maharashtra",
+    "description": "  optima mesh back  adjustable head rest adjustable lumber support adjustable 3d armrest with pu pad (patented) multi lock synchro mechanism gaslift 85mm ( bifma certified) heavy cr base nylon caster (bifma certified)     one year warranty only for manufacturing defects delivery within 4 days.    ",
+    "categories": "High Back Office Chair, Executive Chairs, Mesh Executive Chair",
+    "company_name": "Magnus Seatings",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "16500",
+      "quantity": "Piece"
     },
-    {
-      "id": "5",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/office_chairs_45.png"
+    ]
+  },
+  {
+    "id": "698a5d2a-5a13-4aaa-af8c-c3e32a25c3df",
+    "title": "Bevel Helical Gearbox",
+    "location": "Pune, Maharashtra",
+    "description": "So as to furnish the ever-growing desires of our patrons, we are engrossed in delivering a comprehensive variety of Bevel Gearbox. Price Range:Rs. 5000 to 500000",
+    "categories": "Bevel Helical Gearbox, Planetary Gearbox, Aluminum Worm Gearbox",
+    "company_website": "https://www.vedantcranes.in/",
+    "company_name": "Vedant Equip Sales & Services Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "10000",
+      "quantity": "Piece"
     },
-    {
-      "id": "1",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_33.jpeg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_7.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_19.jpg"
+    ]
+  },
+  {
+    "id": "19c1ed70-b591-4fe8-925a-a7dffd7ac7b1",
+    "title": "Aluminium Pressure Die-casting 360 Watt AC Gear Box Motor",
+    "location": "Pune, Maharashtra",
+    "description": "We are Manufacturer, Supplier of FHP Motors, FHP Geared Motors, Induction Motors, VFD, Reversible Motors, EM Brake Motors, Speed Control Motors, Speed Controllers, PMDC Motors, DC Geared Motors, DC Drivers, Centrifugal Blowers, Linear Actuators, Single Phase Motors, Three Phase Motors, Geared Motors, Manufacturer, Pune, India. Revolution Technology was established in the year 2004, at Pune ( Maharashtra, India ). We are reputed manufacturers of finest quality Electric Motors, Industrial Motors, Induction Motors, Reversible Motors, Electromagnetic Brake Motors, AC Geared Motors etc. Our range comprises AC Induction Motors of 25 Watt, 40 Watt, 60 Watt, 90 Watt, 180 Watt and 360 Watt. We provide all above powers in Reversible Motors, Electromagnetic Brake Motors, PMDC Motors and can provide the Geared Motors also.   These products are manufactured using premium grade raw materials and latest technology. Our all products are die-casted and CNC Machined, VMC Machined so finishing and quality of products are excellent. Our product range is valued our clients for their diverse features such as dimensional accuracy, thermal resistant, robust construction, durability, sturdiness, longer working life and precision quality. Professionals of our team also ensure that offered products are manufactured as per the international standards.   These are developed by our experienced and well trained professionals at our sophisticated production unit. Products offered by us are comprehensively used in all types of Industries. Our in house quality control unit makes us competent to examine the product assortment on pre-defined parameters. Products offered by us are carefully checked by our quality control inspectors using latest instruments and tools. In order to retain the customers, their faith and trust in our company, we remain in their contact to improve the quality of the products on the basis of their feedback and suggestions.We are successfully ranked amongst the top Manufacturer, Supplier and Exporter of Electric Motors, Industrial Motors, PMDC Motors, AC Motors, Geared Boxes etc. Our product range is manufactured using premium grade raw material, which is procured from some of the certified vendors of the industry. These products are widely acknowledged among clients for their unmatched quality, longer service life, robust construction and user-friendly nature. Our esteemed clients can avail these high quality products at industry leading prices.",
+    "categories": "Horizontal Gearbox, Motor Gearboxes",
+    "company_website": "https://www.revolutionindustries.in/",
+    "company_name": "Revolution Technology",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "youtube_video": "http://youtu.be/HijCdUHkFK8",
+    "price": {
+      "amount": "8500",
+      "quantity": "Piece"
     },
-    {
-      "id": "6",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/gearbox_31.jpeg"
+    ]
+  },
+  {
+    "id": "5c2469ba-c421-4625-91ff-e5998494d969",
+    "title": "Asian Paint Tractor Emulsion 20 Ltr",
+    "location": "Pune, Maharashtra",
+    "description": "We &ldquo;Machine Tools Hardware And Appliances Co&rdquo; are a leading Wholesale Trader, Service Provider and Retailer of a wide range of Emulsion Paint, Enamel Paint, Primer Paint, etc.",
+    "categories": "Tractor Emulsion Paints, Asian Emulsion Paints",
+    "company_name": "Machine Tools Hardware And Appliances Co",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "2800",
+      "quantity": "Bucket"
     },
-    {
-      "id": "7",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_11.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/asian_paints_tractor_emulsion_51.jpg"
+    ]
+  },
+  {
+    "id": "1c98d4d6-73cd-47e5-97c7-907772cf96e6",
+    "title": "4-Axis CNC Milling Machining Service, Material - Aluminum",
+    "location": "Pune, Maharashtra",
+    "description": "To cater the variegated demands of our precious clients, we are highly engrossed in providing a qualitative CNC Milling Job Work. This service is carried out under the supervision of our experts who maintain all the quality standards prescribed by leading industry. To cater this service, our highly experienced professionals use the best quality tools and high-end technology. Moreover, the offered service is highly reliable and carried out in compliance with the set quality standards.",
+    "categories": "CNC Milling Job Works, Milling Job Work",
+    "company_website": "https://www.royalmechindustries.in/",
+    "company_name": "Royal Mech Industries",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "570",
+      "quantity": "Hour"
     },
-    {
-      "id": "8",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/cnc_milling_service_36.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/cnc_milling_service_5.jpg"
+    ]
+  },
+  {
+    "id": "748c9233-6e32-48ba-a698-fc2b2e795348",
+    "title": "Plain Casual Wear Dotted Border Saree",
+    "location": "Pune, Maharashtra",
+    "description": "Dotted Border Saree",
+    "categories": "Border Saree, Silk Sarees, Ethnic Saree",
+    "company_website": "https://www.pankhfashion.in/",
+    "company_name": "Pankh Fashions Private Limited",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": false,
+    "price": {
+      "amount": "450",
+      "quantity": "Piece"
     },
-    {
-      "id": "9",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_40.jpg",
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/saree_14.jpg"
+    ]
+  },
+  {
+    "id": "cf27c4e4-dd47-4741-a4ce-1953f97ab94b",
+    "title": "Window Glass Designing Service",
+    "location": "Pune, Maharashtra",
+    "description": "We are ranked amongst the most trusted firms deeply engaged in offering a wide range of Window Glass Designing Service.",
+    "categories": "Designer Glass Works",
+    "company_website": "https://www.faps.co.in/",
+    "company_name": "Fatemi S Architectural Product & Service",
+    "contact_number": "VVtGQXxYUFBVYA==",
+    "gst_verified": true,
+    "price": {
+      "amount": "240",
+      "quantity": "Square Feet"
     },
-    {
-      "id": "10",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "11",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "12",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "14",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "15",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "16",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    },
-    {
-      "id": "17",
-      "title": "Phthalates 200 L Dinch Plasticizer, Grade: Industrial Grade",
-      "price": {
-        "amount": "135",
-        "quantity": "litre"
-      },
-      "location": "Dadar West, Mumbai, Maharashtra",
-      "company_name": "Krishna Enterprise",
-      "images": [
-        "https://5.imimg.com/data5/SELLER/Default/2024/10/461516860/GW/SQ/EU/27256589/dinch-plasticizer-dinp-1000x1000.jpg"
-      ]
-    }
+    "images": [
+      "https://raw.githubusercontent.com/ListIndia/images-0/refs/heads/main/glass_19.jpg"
+    ]
+  }
   ]
 }
