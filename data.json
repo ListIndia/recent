@@ -1,30 +1,6 @@
 {
   "data": [
     {
-  "id": "f0f1de76-e0e8-49e7-90b1-503f577f48ac",
-  "images": [
-    "https://raw.githubusercontent.com/ListIndia/images-1/refs/heads/main/f0f1de76-e0e8-49e7-90b1-503f577f48ac_1.jpeg",
-    "https://raw.githubusercontent.com/ListIndia/images-1/refs/heads/main/f0f1de76-e0e8-49e7-90b1-503f577f48ac_2.jpeg"
-  ],
-  "title": "Test Title",
-  "price": {
-    "amount": "400",
-    "quantity": "ad"
-  },
-  "location": "Delhi, India",
-  "description": "This is description",
-  "categories": "Product, Online",
-  "build_type": "Modular",
-  "material": "Plastic",
-  "company_website": "https://www.google.com",
-  "company_name": "Company name",
-  "contact_number": "XVtAQA==",
-  "gst_verified": true,
-  "youtube_video": "https://www.youtube.com",
-  "Custom 1": "1",
-  "Custom 2": "dhrnen"
-},
-    {
     "id": "6913d30c-fb5d-48e2-8c84-7e91729825a1",
     "title": "Toughened Glass Door, Height: 80 Inch",
     "location": "Pune, Maharashtra",
